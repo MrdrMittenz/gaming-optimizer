@@ -1,0 +1,16 @@
+# Local machine inventories and recovery records
+Preview-current-PC.txt
+Last-checklist.txt
+Last-result.txt
+ActiveProfile.txt
+Backups/
+*.clixml
+*.log
+*.tmp
+
+# Local archives and editor files
+*.zip
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
